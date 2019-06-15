@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-customer.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-customer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-customer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-customer_main.iml" group="jpa-customer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-customer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-customer_test.iml" group="jpa-customer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-customer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-customer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-customer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-customer.test.iml" />
     </modules>
   </component>
 </project>
